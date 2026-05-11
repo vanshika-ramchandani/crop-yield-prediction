@@ -50,11 +50,11 @@ Result + insight displayed on dashboard
 
 | Model | MAE | R² Score |
 |---|---|---|
-| Linear Regression | — | ~85% |
-| Lasso | — | ~85% |
-| Ridge | — | ~85% |
-| KNN Regressor | — | ~94% |
-| **Decision Tree** | — | **~97%** |
+| Linear Regression | 29920.7 | ~74% |
+| Lasso | 29907.6 | ~74% |
+| Ridge | 29875.0 | ~74% |
+| KNN Regressor | 4868.6 | ~98% |
+| **Decision Tree** | 4175.3 | **~97%** |
 
 Decision Tree was selected as the best performing model.
 
