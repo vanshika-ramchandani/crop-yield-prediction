@@ -1,7 +1,7 @@
 ## 🚀 Live Demo
+https://crop-yield-prediction-ivn6gkazqeogb4ne4srkpm.streamlit.app/
 
-
-# 🌾 CropIQ — Crop Yield Prediction
+## 🌾 CropIQ — Crop Yield Prediction
 
 > ML-powered crop yield prediction with AI-generated agricultural insights.
 
